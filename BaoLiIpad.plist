@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.1000sum.com/1000sumipa/xiangyuipad.ipa</string>
+					<string>http://www.1000sum.com/1000sumipa/baoliipad.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>flfq.jiaxingipad.com</string>
+				<string>com.flfq.ipadcontrol</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>FLFQ Launcher</string>
+				<string>BaoLiIpad</string>
 			</dict>
 		</dict>
 	</array>
